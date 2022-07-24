@@ -1,0 +1,2 @@
+# recruitement-back-end
+This is the back end section of a project i created that consits of a recruitement platform dedicated to the comar company. The product is called "My Comar" and it has all the functionalities needed for the best recruitement management system you can find ranging from a great dashboarding system to a recommendation system and a fully automated candidate selection functions.
